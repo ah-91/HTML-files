@@ -1,2 +1,2 @@
 # HTML-files
-some html forms and queries
+some html forms and queries and some queries
